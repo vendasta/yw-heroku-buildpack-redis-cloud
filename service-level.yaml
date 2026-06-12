@@ -1,0 +1,6 @@
+services:
+  - name: yw-heroku-buildpack-redis-cloud
+    owner: honey-badger
+    language: shell
+    nonServiceType: tool
+    description: "A stunnel buildpack for Redis Cloud SSL"
